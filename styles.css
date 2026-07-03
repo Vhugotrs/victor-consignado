@@ -78,6 +78,7 @@ body {
 .hero h1 em {
   font-style: italic;
   color: var(--stamp);
+  white-space: nowrap;
 }
 .hero-sub {
   color: var(--ink-soft);
